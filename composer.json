@@ -1,9 +1,9 @@
 {
-	"name": "swj/test",
-	"description": "swj/test",
-	"keywords": ["swj/test"],
+	"name": "swjcomposer/composertest",
+	"description": "swjcomposer/composertest",
+	"keywords": ["swjcomposer/composertest"],
 	"homepage": "https://github.com/Mikoshi0309/hello",
-	"type": "test",
+	"type": "project",
 	"license": "MIT",
 	"minimum-stability" : "stable",
 	"require": {
