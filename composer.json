@@ -1,0 +1,12 @@
+{
+	"name": "swj/test",
+	"description": "swj/test",
+	"keywords": ["swj/test"],
+	"homepage": "https://github.com/Mikoshi0309/hello",
+	"type": "test",
+	"license": "MIT",
+	"minimum-stability" : "stable",
+	"require": {
+		"php": "*"
+	},
+}
