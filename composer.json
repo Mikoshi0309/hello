@@ -1,12 +1,7 @@
 {
-	"name": "swjcomposer/composertest",
-	"description": "swjcomposer/composertest",
-	"keywords": ["swjcomposer/composertest"],
-	"homepage": "https://github.com/Mikoshi0309/hello",
-	"type": "project",
-	"license": "MIT",
-	"minimum-stability" : "stable",
+	 "version": "1.0.0",
+	"name": "mikoshi0309/hello",
 	"require": {
-		 "php": ">=5.5.9"
+		 "monolog/monolog": "1.0.*"
 	}
 }
