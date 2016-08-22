@@ -1,7 +1,15 @@
 {
-	 "version": "1.0.0",
-	"name": "mikoshi0309/hello",
-	"require": {
-		 "monolog/monolog": "1.0.*"
+    "name": "mikoshi0309/hello",
+    "description": "test",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Mikoshi0309",
+            "email": "371608656@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php":">=7.0.0"
 	}
 }
